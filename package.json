@@ -1,0 +1,24 @@
+{
+  "name": "cublicle",
+  "version": "1.0.0",
+  "description": "Softuni course project",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node ./src/index.js",
+    "dev": "nodemon ./src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/milen-penev-94/cublicle.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/milen-penev-94/cublicle/issues"
+  },
+  "homepage": "https://github.com/milen-penev-94/cublicle#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
